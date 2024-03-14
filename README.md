@@ -1,12 +1,32 @@
+KELOMPOK 5_MIC
+
+Vanessa Aulia Syifa Yudiasmara (22091397084)
+Anis Putri Purwanti (22091397099)
+Danu Teguh Heri Prasetyo (22091397100)
+
+DOKUMENTASI OPEN API
+
+Membuat database apicrud:
+
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/b5737016-1bfc-43ab-abd6-8e8546e29231)
+
+Membuat kode PHP untuk operasi CRUD (Create, Read, Update, Delete) pada entitas “barang” dalam database “apicrud”:
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/cc6f79ab-ad1d-4042-85df-dc7352eca113)
 
+Create (POST) pada entitas “barang” dalam database “apicrud”:
+
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/a77d7ce2-e9cf-428d-ae6b-98e5122fbd56)
+
+Delete (DELETE) pada entitas “barang” dalam database “apicrud”:
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/f0cb4335-0008-4378-ac33-b94510c793fb)
 
+Update (PUT) pada entitas “barang” dalam database “apicrud”:
+
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/9f5ecfa5-9717-4d68-95ef-3724ca4a8eb2)
+
+Proses serta dokumentasi pembuatan open API menggunakan postman:
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/d4398cf3-9c2e-48fc-bc36-85fe79b11dea)
 
