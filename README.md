@@ -27,16 +27,23 @@ Update (PUT) pada entitas “barang” dalam database “apicrud”:
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/9f5ecfa5-9717-4d68-95ef-3724ca4a8eb2)
 
 Proses serta dokumentasi pembuatan open API menggunakan postman:
+1. GET
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/d4398cf3-9c2e-48fc-bc36-85fe79b11dea)
+
+2. POST
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/e7d2f9b2-22be-4fb9-9554-352fa7935f95)
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/c46775e1-5e04-44e6-ba11-3014533a1c0f)
 
+3. DELETE
+
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/d128a59b-e170-4fd0-89fa-1d953f8a8c33)
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/d209feb8-73c7-4606-b16d-0b3ccf90896d)
+
+4. PUT
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/a0f10b0e-4bfd-4a74-93a5-6a214a9861fa)
 
