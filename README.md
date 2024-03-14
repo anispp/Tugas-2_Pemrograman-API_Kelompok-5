@@ -1,10 +1,26 @@
-KELOMPOK 5_MIC
+TUGAS MATA KULIAH PEMROGRAMAN API
+"DOKUMENTASI OPEN API"
 
-Vanessa Aulia Syifa Yudiasmara (22091397084)
-Anis Putri Purwanti (22091397099)
-Danu Teguh Heri Prasetyo (22091397100)
+Disusun oleh:
 
-DOKUMENTASI OPEN API
+1. Vanessa Aulia Syifa Yudiasmara (22091397084)
+   
+2. Anis Putri Purwanti (22091397099)
+   
+3. Danu Teguh Heri Prasetyo (22091397100)
+
+Dosen Pengampu:
+
+Andi Iwan Nurhidayat, S. Kom., M. T.
+
+PROGRAM STUDI D4 MANAJEMEN INFORMATIKA
+FAKULTAS VOKASI
+UNIVERSITAS NEGERI SURABAYA
+2024
+
+*Source Code dan Tampilan Hasil Dokumentasi*
+![WhatsApp Image 2024-03-14 at 16 19 30](https://github.com/anispp/Tugas-2_Pemrograman-API_Kelompok-5/assets/114341153/a5a45aba-5e02-43a3-bded-2f186acfe850)
+
 
 Membuat database apicrud:
 
