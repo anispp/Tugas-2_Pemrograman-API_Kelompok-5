@@ -1,0 +1,160 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+      "title": "Aplikasi Penjualan Barang API",
+      "version": "1.0.0"
+    },
+    "paths": {
+      "/barang": {
+        "get": {
+          "summary": "Mendapatkan daftar barang",
+          "responses": {
+            "200": {
+              "description": "OK",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/Barang"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "post": {
+          "summary": "Menambahkan barang baru",
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/x-www-form-urlencoded": {
+                "schema": {
+                  "$ref": "#/components/schemas/BarangInput"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "OK",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/Status"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/barang/{id}": {
+        "delete": {
+          "summary": "Menghapus barang berdasarkan ID",
+          "parameters": [
+            {
+              "in": "path",
+              "name": "id",
+              "required": true,
+              "schema": {
+                "type": "integer"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "OK",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/Status"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "put": {
+          "summary": "Memperbarui barang berdasarkan ID",
+          "parameters": [
+            {
+              "in": "path",
+              "name": "id",
+              "required": true,
+              "schema": {
+                "type": "integer"
+              }
+            }
+          ],
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/x-www-form-urlencoded": {
+                "schema": {
+                  "$ref": "#/components/schemas/BarangInput"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "OK",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/Status"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "Barang": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "nama_barang": {
+              "type": "string"
+            },
+            "stok": {
+              "type": "integer"
+            },
+            "harga": {
+              "type": "integer"
+            }
+          }
+        },
+        "BarangInput": {
+          "type": "object",
+          "properties": {
+            "nama_barang": {
+              "type": "string"
+            },
+            "stok": {
+              "type": "integer"
+            },
+            "harga": {
+              "type": "integer"
+            }
+          }
+        },
+        "Status": {
+          "type": "object",
+          "properties": {
+            "status": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+  
