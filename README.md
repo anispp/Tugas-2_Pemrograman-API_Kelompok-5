@@ -2,6 +2,7 @@ TUGAS MATA KULIAH PEMROGRAMAN API
 
 "DOKUMENTASI OPEN API"
 
+
 Disusun oleh:
 
 1. Vanessa Aulia Syifa Yudiasmara (22091397084)
@@ -10,9 +11,12 @@ Disusun oleh:
    
 3. Danu Teguh Heri Prasetyo (22091397100)
 
+
 Dosen Pengampu:
 
 Andi Iwan Nurhidayat, S. Kom., M. T.
+
+
 
 PROGRAM STUDI D4 MANAJEMEN INFORMATIKA
 
