@@ -31,25 +31,26 @@ UNIVERSITAS NEGERI SURABAYA
 ![WhatsApp Image 2024-03-14 at 16 19 30](https://github.com/anispp/Tugas-2_Pemrograman-API_Kelompok-5/assets/114341153/a5a45aba-5e02-43a3-bded-2f186acfe850)
 
 
-Membuat database apicrud:
+- Membuat database apicrud:
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/b5737016-1bfc-43ab-abd6-8e8546e29231)
 
-Membuat kode PHP untuk operasi CRUD (Create, Read, Update, Delete) pada entitas “barang” dalam database “apicrud”:
+- Membuat kode PHP untuk operasi CRUD (Create, Read, Update, Delete) pada entitas “barang” dalam database “apicrud”:
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/cc6f79ab-ad1d-4042-85df-dc7352eca113)
 
-Create (POST) pada entitas “barang” dalam database “apicrud”:
+- Create (POST) pada entitas “barang” dalam database “apicrud”:
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/a77d7ce2-e9cf-428d-ae6b-98e5122fbd56)
 
-Delete (DELETE) pada entitas “barang” dalam database “apicrud”:
+- Delete (DELETE) pada entitas “barang” dalam database “apicrud”:
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/f0cb4335-0008-4378-ac33-b94510c793fb)
 
-Update (PUT) pada entitas “barang” dalam database “apicrud”:
+- Update (PUT) pada entitas “barang” dalam database “apicrud”:
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/9f5ecfa5-9717-4d68-95ef-3724ca4a8eb2)
+
 
 Proses serta dokumentasi pembuatan open API menggunakan postman:
 **1. GET**
